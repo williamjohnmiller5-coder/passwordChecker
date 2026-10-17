@@ -1,4 +1,4 @@
-# passwordChecker
+# passwordChecker (feel free to add to this project if needed)
 1. added a simple password checking system
 2. added a while loop and a tries meter to check for how many tries the user has done
 3. added a timeout feature
