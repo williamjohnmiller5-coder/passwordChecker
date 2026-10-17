@@ -1,2 +1,6 @@
 # passwordChecker
-a password checker for python with no bugs
+1. added a simple password checking system
+2. added a while loop and a tries meter to check for how many tries the user has done
+3. added a timeout feature
+4. added a password change feature to allow the user to change thier password if they get the initial password correct
+5. found a bug where the passwordChange was not changing the password, intead added a break command to conteract this as maybe a feature of getting kicked out if your second password isnt right
