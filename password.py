@@ -1,6 +1,6 @@
 ###############  welcome to my python project (credits to me) please use this for anything and feel free to add to it  ###############
 print("this program was made by williamjohnmiller")
-
+#this code itsnt mandatory, please just delete if if you want but it would help it you kept it somewhere
 
 
 
